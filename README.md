@@ -21,11 +21,11 @@ Hedeflenen sayfa dizaynı şu dosya içerisinde gösterilmiştir: [dizayn dosyas
 
 Aşağıdaki adımları takip edin.:
 
-- [ ] Repoyu forklayın ve klonlayın.
-- [ ] BRANCH OLUŞTURMAYIN. Güncellemelerinizi main/master 'a pushlayacaksınız.
-- [ ] Terminalden reponuzun bulunduğu klasöre ulaşın ve VS Code'u açmak için . yazın ve entera basın. Ya da VS Code içerisine proje klasörünü sürükleyip bırakabilirsiniz.
-- [ ] VS Code'un sol tarafındaki Eklentiler bölümünden Live Server eklentisini indirin. Eklenti yüklendikten sonra sağ altta bulunan "Go Live" butonuna basarak HTML dosyanızı çalıştırabilirsiniz.
-- [ ] Çalışmanızı düzenli commitlerle main branch'e aktarın. gönderdiğiniz URL programınızın en son versiyonuna göndermektedir.
+- [x] Repoyu forklayın ve klonlayın.
+- [x] BRANCH OLUŞTURMAYIN. Güncellemelerinizi main/master 'a pushlayacaksınız.
+- [x] Terminalden reponuzun bulunduğu klasöre ulaşın ve VS Code'u açmak için . yazın ve entera basın. Ya da VS Code içerisine proje klasörünü sürükleyip bırakabilirsiniz.
+- [x] VS Code'un sol tarafındaki Eklentiler bölümünden Live Server eklentisini indirin. Eklenti yüklendikten sonra sağ altta bulunan "Go Live" butonuna basarak HTML dosyanızı çalıştırabilirsiniz.
+- [x] Çalışmanızı düzenli commitlerle main branch'e aktarın. gönderdiğiniz URL programınızın en son versiyonuna göndermektedir.
 
 ### Görev 2: Minimum Uygulanabilir Ürün
 
@@ -41,14 +41,14 @@ Repository'niz hazır olunca verilen dizayn göze alınarak bugün öğrendiğin
   - [x] Peri Bacaları Tanıtımı fontunun adı Chelsea Market'tir ve şu linkten ulaşılabilir [google fonts](https://fonts.google.com/specimen/Chelsea+Market)
   - [x] Diğer tüm fontlar Roboto Mono'dur ve şuradan ulaşılabilir [google fonts](https://fonts.google.com/specimen/Roboto+Mono)
 - [x] Ana metnin arka plan rengi: `#DDB9A3`
-- [ ] Footer'ın arka plan rengi: `#F9E7DC`
-- [ ] "olağanüstü ve rüya gibi bir deneyim." ve "dünyanın en iyi ATV turlarından birini" kelime öbeklerini bold yapın.
-- [ ] Dizayn sayfasındaki sonucu yakalamak için Box model özelliklerini uygulayın (content, padding, margin, and border). En az şunları içermelidir:
+- [x] Footer'ın arka plan rengi: `#F9E7DC`
+- [x] "olağanüstü ve rüya gibi bir deneyim." ve "dünyanın en iyi ATV turlarından birini" kelime öbeklerini bold yapın.
+- [x] Dizayn sayfasındaki sonucu yakalamak için Box model özelliklerini uygulayın (content, padding, margin, and border). En az şunları içermelidir:
   - [x] Headerde bir yuvarlak resim (image)
-  - [ ] Footer ve menü elemanlarında yuvarlak köşeler
+  - [x] Footer ve menü elemanlarında yuvarlak köşeler
   - [x] Başlık(header) resmi ve hizalı text 
   - [x] Ortalanmış içerikler, marginler ve içeriklerin etrafındaki marginler 
-  - [ ] Footer resmi pozisyonu
+  - [x] Footer resmi pozisyonu
 
 **Tasarımınız boyunca statik öğelerden kaçının (pikseller) Mümkün olduğunca responsive öğeler kullanın.**
 
@@ -59,6 +59,6 @@ Repository'niz hazır olunca verilen dizayn göze alınarak bugün öğrendiğin
 
 Aşağıdakileri uygulayın.
 
-- [ ] CSS animasyonları ekleyin (hover, mouseover, etc.)
+- [x] CSS animasyonları ekleyin (hover, mouseover, etc.)
 - [ ]  `Gezinizi Planlayın`, `Bilgi Edinin`, ve `Karşılaştırın` sayfaları için kendi tasarımlarınızı yapın ve çalıştırın
-- [ ]  [favicon.io](https://favicon.io/favicon-converter/) sitesini kullanarak atv ve balon ikonlarını favicon'a dönüştürüp sayfaya ekleyin.
+- [x]  [favicon.io](https://favicon.io/favicon-converter/) sitesini kullanarak atv ve balon ikonlarını favicon'a dönüştürüp sayfaya ekleyin.
