@@ -33,6 +33,10 @@ header nav a {
     background-color: #FFCD69;
 }
 
+.container {
+    padding: 0 5rem;
+}
+
 #top-bar:after {
 	content: '';
 	display: inline-block;
@@ -43,7 +47,6 @@ header nav a {
     display: inline-block;
     height: 15rem;
     width: 15rem;
-    padding-left: 5rem;
 }
 
 #top-image img {
@@ -65,4 +68,11 @@ header nav a {
 #top-header {
     text-align: center;
     font-family: 'Chelsea Market', cursive;
+}
+
+#main-text {
+    color: white;
+    background-color: #DDB9A3;
+    padding: 0.1rem 1rem;
+    border-radius: 0.5rem;
 }

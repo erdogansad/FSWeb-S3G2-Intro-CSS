@@ -37,17 +37,17 @@ Repository'niz hazır olunca verilen dizayn göze alınarak bugün öğrendiğin
   - [x] Gezinizi Planlayın: `#FF764E`
   - [x] Bilgi Edinin: `#5ED3EB`
   - [x] Karşılaştırın: `#FFCD69`
-- [ ] Yazı renkleri ve fontlar:
-  - [ ] Peri Bacaları Tanıtımı fontunun adı Chelsea Market'tir ve şu linkten ulaşılabilir [google fonts](https://fonts.google.com/specimen/Chelsea+Market)
+- [x] Yazı renkleri ve fontlar:
+  - [x] Peri Bacaları Tanıtımı fontunun adı Chelsea Market'tir ve şu linkten ulaşılabilir [google fonts](https://fonts.google.com/specimen/Chelsea+Market)
   - [x] Diğer tüm fontlar Roboto Mono'dur ve şuradan ulaşılabilir [google fonts](https://fonts.google.com/specimen/Roboto+Mono)
-- [ ] Ana metnin arka plan rengi: `#DDB9A3`
+- [x] Ana metnin arka plan rengi: `#DDB9A3`
 - [ ] Footer'ın arka plan rengi: `#F9E7DC`
 - [ ] "olağanüstü ve rüya gibi bir deneyim." ve "dünyanın en iyi ATV turlarından birini" kelime öbeklerini bold yapın.
 - [ ] Dizayn sayfasındaki sonucu yakalamak için Box model özelliklerini uygulayın (content, padding, margin, and border). En az şunları içermelidir:
-  - [ ] Headerde bir yuvarlak resim (image)
+  - [x] Headerde bir yuvarlak resim (image)
   - [ ] Footer ve menü elemanlarında yuvarlak köşeler
-  - [ ] Başlık(header) resmi ve hizalı text 
-  - [ ] Ortalanmış içerikler, marginler ve içeriklerin etrafındaki marginler 
+  - [x] Başlık(header) resmi ve hizalı text 
+  - [x] Ortalanmış içerikler, marginler ve içeriklerin etrafındaki marginler 
   - [ ] Footer resmi pozisyonu
 
 **Tasarımınız boyunca statik öğelerden kaçının (pikseller) Mümkün olduğunca responsive öğeler kullanın.**
