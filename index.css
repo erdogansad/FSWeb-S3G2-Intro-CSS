@@ -3,11 +3,8 @@
 }
 
 header nav {
-    height: 5rem;
-    position: relative;
-    margin: 0 auto;
     text-align: justify;
-    padding: 0.5rem 5rem 0 5rem;
+    padding: 0.5rem 5rem 2rem 5rem;
 }
 
 header nav:after {
@@ -34,4 +31,38 @@ header nav a {
 
 .compare {
     background-color: #FFCD69;
+}
+
+#top-bar:after {
+	content: '';
+	display: inline-block;
+	width: 100%;
+}
+
+#top-image {
+    display: inline-block;
+    height: 15rem;
+    width: 15rem;
+    padding-left: 5rem;
+}
+
+#top-image img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    border-radius: 100%;
+}
+
+#top-text{
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    width: 25rem;
+    padding-left: 15rem;
+    padding-top: 3rem;
+}
+
+#top-header {
+    text-align: center;
+    font-family: 'Chelsea Market', cursive;
 }
