@@ -2,18 +2,18 @@
     font-family: 'Roboto Mono', monospace;
 }
 
-header nav {
+nav {
     text-align: justify;
     padding: 0.5rem 5rem 2rem 5rem;
 }
 
-header nav:after {
+nav:after {
 	content: '';
 	display: inline-block;
 	width: 100%;
 }
 
-header nav a {
+nav a {
     display: inline-block;
     text-decoration: none;
     color: white;
@@ -37,26 +37,26 @@ header nav a {
     padding: 0 5rem;
 }
 
-#top-bar:after {
+#first-bar:after {
 	content: '';
 	display: inline-block;
 	width: 100%;
 }
 
-#top-image {
+#first-image {
     display: inline-block;
     height: 15rem;
     width: 15rem;
 }
 
-#top-image img {
+#first-image img {
     object-fit: cover;
     height: 100%;
     width: 100%;
     border-radius: 100%;
 }
 
-#top-text{
+#first-text{
     text-align: center;
     display: inline-block;
     vertical-align: top;
@@ -65,7 +65,7 @@ header nav a {
     padding-top: 3rem;
 }
 
-#top-header {
+#first-header {
     text-align: center;
     font-family: 'Chelsea Market', cursive;
 }
@@ -75,4 +75,46 @@ header nav a {
     background-color: #DDB9A3;
     padding: 0.1rem 1rem;
     border-radius: 0.5rem;
+}
+
+#vehicles {
+    margin: 2.5rem 0;
+}
+
+.vehicle{
+    text-align: center;
+    width: 17rem;
+    padding-top: 3rem;
+    margin: 0 auto;
+}
+
+.vehicle-image{
+    width: 5rem;
+    margin: 0 auto;
+}
+
+.vehicle-text span {
+    font-weight: bold;
+}
+
+footer {
+    height: 20rem;
+    width: 100%;
+    background-color: #F9E7DC;
+}
+
+#footer-image {
+    height: 15rem;
+    width: 100%;
+}
+
+#footer-image img{
+    object-position: top;
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+footer nav {
+    padding-top: 1rem;
 }
